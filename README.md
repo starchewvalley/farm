@@ -1,11 +1,18 @@
+# Projects 
 
-# Section_Workbooks
-Workbooks in this repo are to be used during discussion section as another way in which students can get extra practice with course concepts and Python programming. 
+Materials and outlines for the Final Project for COGS108.
 
-## Discussion Section
+Carefully read through all the details you'll need to know for your COGS108 Final Project [here](https://github.com/COGS108/Projects/blob/master/FinalProject_Guidelines.pdf)
 
-For use in discussion section, each workbook is broken down into three parts so that instructional staff can review each part over the course of the discussion section. 
+## Project Schedule
 
-Sometimes these are designed to help you better understand what you'll need to do for your assignments. Often you will be walked through an analysis step by step. However, in other cases, these will include less guidance and it's up to you to figure out what code must be written to accomplish the task / analyze the dataset.
+#### Project Proposal
+Due Sunday, October 20, 11:59 pm (Week 3)
 
- 
+#### Final Project
+Due Thursday, December 12, 11:59 pm (Finals Week)
+
+## Project Templates
+
+* [Proposal](https://docs.google.com/document/d/1_M0Zajd00s9r8RNFTWruqngJm0NTHawOqCMWib9C9ys/edit?usp=sharing)
+* [Final Project](https://github.com/COGS108/Projects/blob/master/FinalProject.ipynb)
